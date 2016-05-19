@@ -18,7 +18,7 @@ app:
   # e.g. images/app-icon-512.png
   # 512px or greater, square
 
-  screenshot: images/IMG_1069.png
+  screenshot: images/IMG_1069.PNG
   # Leave blank to auto-magically populate
   # To update use path relative to project root with no leading slash:
   # e.g. images/app-screen-640x1136.png
