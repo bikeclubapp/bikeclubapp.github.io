@@ -84,7 +84,7 @@ description: # Optional - Enter your site description
 #
 # Google Analytics
 #
-google_analytics: UA-44725205-11# Enter your tracking code (e.g. UA-2110908-2) to activate tracking
+google_analytics: UA-44725205-11 # Enter your tracking code (e.g. UA-2110908-2) to activate tracking
 
 #
 # iTunes Affiliate Program
