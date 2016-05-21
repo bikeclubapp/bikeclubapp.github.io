@@ -111,3 +111,7 @@ sass:
 exclude:
   - LICENSE
   - README.md
+
+webrick:
+  headers:
+    Access-Control-Allow-Origin: '*'
