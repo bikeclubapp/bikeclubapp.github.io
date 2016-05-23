@@ -186,6 +186,13 @@ a:hover {
   }
 }
 
+@media (max-width: 768px) {
+  #notify-me {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+}
+
 //
 // more imports
 //
